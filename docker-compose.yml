@@ -16,7 +16,7 @@ services:
       - wekan-db-dump-dev:/dump
 
   wekan-dev:
-    image: wekan:dev
+    image: wekan_final
     container_name: wekan-app-dev
     restart: always
     networks:

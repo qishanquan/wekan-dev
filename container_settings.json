@@ -1,0 +1,12 @@
+{
+    "HostConfig": {
+        "PortBindings": {
+            "3000/tcp": [
+                {
+                    "HostIp": "0.0.0.0",
+                    "HostPort": "8082"
+                }
+            ]
+        }
+    }
+}
