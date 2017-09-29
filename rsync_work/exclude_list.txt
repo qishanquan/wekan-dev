@@ -1,4 +1,4 @@
 .git
 .idea
 .meteor/local
-node_module
+node_modules
